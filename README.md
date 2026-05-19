@@ -1,3 +1,3 @@
 This is my first file 
 <br>
-Creating game project with me team members
+Creating to do app project with my team members
